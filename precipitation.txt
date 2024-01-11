@@ -1,0 +1,21 @@
+# v1.3.0 (2024-01-08)
+- Command queue is added
+- Bigger Bazaar is added
+
+
+# v1.2.0 (2024-01-07)
+- skins are readded
+- paladin class added
+
+
+# v1.1.1 (2024-01-06)
+- skins are removed due to bugs
+
+
+# v1.1.0 (2024-01-06)
+- skins are added
+- proper save mod added
+
+
+# v1.0 (2024-01-01)
+- the pack is created
